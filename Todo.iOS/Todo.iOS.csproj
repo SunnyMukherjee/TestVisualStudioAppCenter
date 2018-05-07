@@ -57,6 +57,7 @@
     <IpaPackageName />
     <AssemblyName>QuickTodoiOS</AssemblyName>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <CodesignProvision>iOS Team Provisioning Profile: *</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
     <DebugType>full</DebugType>
