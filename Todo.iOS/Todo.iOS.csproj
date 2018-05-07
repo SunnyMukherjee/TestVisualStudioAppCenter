@@ -26,6 +26,8 @@
     <MtouchArch>i386, x86_64</MtouchArch>
     <AssemblyName>TodoiOS</AssemblyName>
     <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignProvision>
+    </CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>full</DebugType>
