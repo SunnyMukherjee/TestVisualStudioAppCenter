@@ -25,7 +25,7 @@
     <MtouchDebug>true</MtouchDebug>
     <MtouchArch>i386, x86_64</MtouchArch>
     <AssemblyName>TodoiOS</AssemblyName>
-    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignKey>iPhone Developer: sendingtosunny@gmail.com (WB3P5P83Z8)</CodesignKey>
     <CodesignProvision>
     </CodesignProvision>
   </PropertyGroup>
@@ -82,8 +82,8 @@
     <ConsolePause>false</ConsolePause>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <BuildIpa>true</BuildIpa>
-    <CodesignProvision>Automatic:AdHoc</CodesignProvision>
-    <CodesignKey>iPhone Distribution</CodesignKey>
+    <CodesignKey>iPhone Developer: sendingtosunny@gmail.com (WB3P5P83Z8)</CodesignKey>
+    <CodesignProvision>iOS Team Provisioning Profile: com.sunny.TestVisualStudioAppCenter</CodesignProvision>
     <AssemblyName>QuickTodoiOS</AssemblyName>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
   </PropertyGroup>
