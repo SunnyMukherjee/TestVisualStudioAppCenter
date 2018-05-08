@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>Todo</string>
+	<string>TestVisualStudioAppCenter</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.your-company.Todo.iOS</string>
+	<string>com.sunny.testvisualstudioappcenter</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
