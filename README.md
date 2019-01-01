@@ -20,4 +20,4 @@ Learn more about Xamarin Live Player limitations [here](https://developer.xamari
 Authors
 -------
 
-Craig Dunn, Bryan Costanich
+Craig Dunn, Bryan Costanich, Sunny
